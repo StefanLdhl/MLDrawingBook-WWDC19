@@ -11,3 +11,10 @@ Enjoy :)
 
 [View on YouTube](https://youtu.be/uOvFMMD5H1w)
 
+### Screenshots
+<p align="center">
+<img src="./screenshot_1.png">
+</p>
+<p align="center">
+<img src="./screenshot_2.png">
+</p>
